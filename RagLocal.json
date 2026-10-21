@@ -48,7 +48,7 @@
       "name": "Qdrant Vector Store",
       "credentials": {
         "qdrantApi": {
-          "id": "VB29MrsTISeMkClO",
+          "id": "QDRANT_CREDENTIAL_ID",
           "name": "Qdrant account"
         }
       }
@@ -118,7 +118,7 @@
       "name": "Embeddings Ollama",
       "credentials": {
         "ollamaApi": {
-          "id": "X14pE1wYCofvZGf2",
+          "id": "OLLAMA_CREDENTIAL_ID",
           "name": "Ollama account"
         }
       }
@@ -137,7 +137,7 @@
       "name": "Embeddings Ollama1",
       "credentials": {
         "ollamaApi": {
-          "id": "X14pE1wYCofvZGf2",
+          "id": "OLLAMA_CREDENTIAL_ID",
           "name": "Ollama account"
         }
       }
@@ -174,7 +174,7 @@
       "name": "Ollama Chat Model",
       "credentials": {
         "ollamaApi": {
-          "id": "X14pE1wYCofvZGf2",
+          "id": "OLLAMA_CREDENTIAL_ID",
           "name": "Ollama account"
         }
       }
@@ -202,7 +202,7 @@
       "name": "Qdrant Vector Store2",
       "credentials": {
         "qdrantApi": {
-          "id": "VB29MrsTISeMkClO",
+          "id": "QDRANT_CREDENTIAL_ID",
           "name": "Qdrant account"
         }
       }
@@ -353,7 +353,7 @@
   "versionId": "f07a7782-393a-44d5-a0b3-63b46e437275",
   "meta": {
     "templateCredsSetupCompleted": true,
-    "instanceId": "21d2100282389b49e82a602f2b1269a51832443195e4af9d50d8d6db71f2c42d"
+    "instanceId": "REPLACE_WITH_LOCAL_N8N_INSTANCE_ID"
   },
   "nodeGroups": [],
   "id": "bSfaj6TN3gMcaus6",
